@@ -4,7 +4,7 @@
 
 *Software Development | Mobile Apps (Flutter) | Machine Learning | Data Analysis | IoT Systems*
 
-Welcome to my GitHub! I'm a Computer Science graduate (Human-Centered Computing) from Universiti Utara Malaysia with a CGPA of 3.89, and I recently completed a 6-month internship at Bank Islam Malaysia Berhad on the BIMB Mobile 2.0 digital banking platform. I enjoy building end-to-end systems, from mobile apps and backends to machine learning models and IoT devices, and I'm always eager to learn new tools and technologies.
+Welcome to my GitHub! I'm a Computer Science graduate (Human-Centered Computing) from Universiti Utara Malaysia, and I recently completed a 6-month internship at Bank Islam Malaysia Berhad on the BIMB Mobile 2.0 digital banking platform. I enjoy building end-to-end systems, from mobile apps and backends to machine learning models and IoT devices, and I'm always eager to learn new tools and technologies.
 
 ---
 
